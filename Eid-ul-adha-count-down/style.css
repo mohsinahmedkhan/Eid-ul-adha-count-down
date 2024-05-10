@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/eid-al-adha-2023_625x300_27_June_23.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Eid-heading {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    padding-top: 20px;
+}
+
+.boxing {
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    gap: 10px;
+    justify-content: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    width: 50px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.text-main {
+    text-align: center;
+}
+
+.text {
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    font-style: italic;
+}
